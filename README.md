@@ -9,8 +9,15 @@ By Kay-Yea Wong
 
 
 # Technical overview
-I wanted to work on a website that raises awareness for those who suffer from sexual trauma or any form of trauma that people may struggle to speak about. I want to implement a soft spot in the website that allows the viewer to feel comfortable speaking to other victims. However, the wide range of victims that affect multiple people with different experiences makes it hard. Essentially making it too broad and picking a smaller group of people that I also can relate with helps with the project. 
+ I wanted to work on a website that raises awareness for those who suffer from sexual trauma or any form of trauma that people may struggle to speak about. I want to implement a soft spot in the website that allows the viewer to feel comfortable speaking to other victims. However, the wide range of victims that affect multiple people with different experiences makes it hard. Essentially making it too broad and picking a smaller group of people that I also can relate with helps with the project. 
 
-I want to implement a soft spot in the website that allows the viewer to feel comfortable speaking to other victims. However, the wide range of victims that affect multiple people with different experiences makes it hard. Essentially making it too broad and picking a smaller group of people that I also can relate with helps with the project. 
+ I want to implement a soft spot in the website that allows the viewer to feel comfortable speaking to other victims. However, the wide range of victims that affect multiple people with different experiences makes it hard. Essentially making it too broad and picking a smaller group of people that I also can relate with helps with the project. 
 
 # Acknowledgment
+
+# Physical Assets
+This is my sketch and draft of my physical asset of my festival!
+
+<img src="Moonlight festival Mockup.png" alt="Mockup">
+<img src="Moonlight Festival Board" alt="Board Design">
+
