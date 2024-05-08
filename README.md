@@ -1,6 +1,6 @@
 # Wong_socialjusticefestival
 # project overview
-Project Overiew & Technical Overview & XD Inclusion
+Project Overview & Technical Overview & XD Inclusion
 May 06, 2024
 By Kay-Yea Wong
 
@@ -16,8 +16,9 @@ By Kay-Yea Wong
 # Acknowledgment
 
 # Physical Assets
-This is my sketch and draft of my physical asset of my festival!
+This is my sketch and draft of the physical asset of my festival!
 
-<img src="Moonlight festival Mockup.png" alt="Mockup">
-<img src="Moonlight Festival Board" alt="Board Design">
+
+![Moonlight festival Mockup copy](https://github.com/Sleepy-Kay/Wong_socialjusticefestival/assets/158385673/98be142b-c01b-4490-8118-1f464a0b6ae1)
+![Moonlight Festival Board copy](https://github.com/Sleepy-Kay/Wong_socialjusticefestival/assets/158385673/fd35c42c-eae2-47f2-8b6b-0e9c2b414b9b)
 
