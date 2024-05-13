@@ -1,7 +1,5 @@
 * {
   background-color:#C3B1E1;
-  margin: 0;
-  padding: 0;
 }
 
 img{
@@ -9,15 +7,15 @@ img{
   max-height: 20%
   center;
   }
-
-
-header {
-  background-color: whitesmoke;
-  padding: 10px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
+  li {
+    display: inline;
+    text-size-adjust: 50%;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
 
 image{
   font-size: 25%;
