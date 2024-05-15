@@ -53,13 +53,23 @@
   margin-top: 0%;
   justify-content:center;
 }
-
+.maininfo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
 .Eventslists {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 40px;
   text-align: center;
 }
+.parent {
+  display:flex;
+  flex-direction: table-caption;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
 
+}
 
 .fade-in-text {
   font-family: "Monstat", sans-serif;
