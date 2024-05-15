@@ -31,5 +31,8 @@ This is my sketch and draft of the physical asset of my festival!
 ![Moonlight festival Mockup copy](https://github.com/Sleepy-Kay/Wong_socialjusticefestival/assets/158385673/98be142b-c01b-4490-8118-1f464a0b6ae1)
 ![Moonlight Festival Board copy](https://github.com/Sleepy-Kay/Wong_socialjusticefestival/assets/158385673/fd35c42c-eae2-47f2-8b6b-0e9c2b414b9b)
 
+Final Mockup
+
+
 
 
