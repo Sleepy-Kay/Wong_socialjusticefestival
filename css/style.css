@@ -54,11 +54,13 @@
   justify-content:center;
 }
 
-
 .Eventslists {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
   text-align: center;
-
 }
+
+
 .fade-in-text {
   font-family: "Monstat", sans-serif;
   font-size: 50px;
