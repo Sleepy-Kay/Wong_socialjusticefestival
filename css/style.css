@@ -1,4 +1,6 @@
-* {
+* { 
+  margin: 0;
+  padding: 0;
   background-color:#C3B1E1;
 }
 .icon {
@@ -14,9 +16,9 @@
   float: left;
   color: #f2f2f2;
   text-align: center;
-  max-height: 50%;
-  height: auto;
-  padding: 10px;
+  max-height: 20%;
+  height: 20%;
+  padding: 0%;
   text-decoration: none;
   
 }
@@ -24,22 +26,31 @@
   background-color: #ddd;
   color: whitesmoke;
 }
-.img{
-  max-width: 100%;
-  max-height: 20%
-  center;
-  }
-  li {
-    display: inline;
-    text-size-adjust: 50%;
-  }
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
 
+.headerBar {
+  display:flex;
+  flex-direction:row;
+  flex-wrap: nowrap;
+  padding: 1%;
+  margin-top: 2%;
+  justify-content:center;
+}
 
+#imgicon{ 
+  padding: 0;
+  max-width: 50%;
+  max-height: 50%; 
+}
+
+#poster{
+  max-width: 50%;
+  max-height: auto;
+  justify-content: center;
+}
+.poster{
+  margin-left: auto;
+  margin-right: auto;
+}
 
 footer {
   padding: 100;
@@ -51,12 +62,12 @@ footer {
 
 .fade-in-text {
   font-family: "Monstat", sans-serif;
-  font-size: 100px;
-  animation: fadeIn 15s;
-  -webkit-animation: fadeIn 30s;
-  -moz-animation: fadeIn 30s;
-  -o-animation: fadeIn 30s;
-  -ms-animation: fadeIn 30s;
+  font-size: 50px;
+  animation: fadeIn 10s;
+  -webkit-animation: fadeIn 15s;
+  -moz-animation: fadeIn 15s;
+  -o-animation: fadeIn 15s;
+  -ms-animation: fadeIn 15s;
 }
 
 @keyframes fadeIn {
@@ -83,3 +94,18 @@ footer {
   0% { opacity: 0; }
   100% { opacity: 1; }
 }
+
+html {
+  font-size: 100%;
+  }
+  h1 {
+  font-size: 2em;
+  }
+  h2 {
+  font-size: 1.5em;
+  }
+  @media screen and (max-width: 800px) {
+  html {
+   font-size: 80%;
+   }
+  }
