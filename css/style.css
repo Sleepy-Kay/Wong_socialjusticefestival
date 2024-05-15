@@ -3,18 +3,19 @@
   padding: 0;
   background-color:#C3B1E1;
 }
-.icon {
-  font-size: 32px;
+#imglogo{
+  float: left;
+  max-height: 11%;
+  max-width: 11%;
 }
-
 .topnav {
-  background-color:#C3B1E1;
+  background-color:#ddd;
   overflow: hidden;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #ddd;
   text-align: center;
   max-height: 20%;
   height: 20%;
@@ -31,13 +32,13 @@
   display:flex;
   flex-direction:row;
   flex-wrap: nowrap;
-  padding: 1%;
-  margin-top: 2%;
+  padding: 0%;
+  margin-top: 0%;
   justify-content:center;
 }
 
 #imgicon{ 
-  padding: 0;
+  padding: 10%;
   max-width: 50%;
   max-height: 50%; 
 }
@@ -45,30 +46,31 @@
 #poster{
   max-width: 50%;
   max-height: auto;
-  justify-content: center;
-}
-.poster{
-  margin-left: auto;
-  margin-right: auto;
+  display:flex;
+  flex-direction:row;
+  flex-wrap: nowrap;
+  padding: 0%;
+  margin-top: 0%;
+  justify-content:center;
 }
 
-footer {
-  padding: 100;
-  background-color: whitesmoke;
-  padding: 100px;
+
+.Eventslists {
   text-align: center;
-  color: white;
-}
 
+}
 .fade-in-text {
   font-family: "Monstat", sans-serif;
   font-size: 50px;
+  text-align: center;
   animation: fadeIn 10s;
   -webkit-animation: fadeIn 15s;
   -moz-animation: fadeIn 15s;
   -o-animation: fadeIn 15s;
   -ms-animation: fadeIn 15s;
 }
+
+
 
 @keyframes fadeIn {
   0% { opacity: 0; }
