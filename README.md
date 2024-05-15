@@ -12,7 +12,7 @@ By Kay-Yea Wong
 
 
 # Technical overview
-
+Alot of this project consist of me going abck and forth on making the imagery of something dreamy and space for everyone. 
 
 # Acknowledgment
 <These are my sources in either the material for my images, websites I used some code from and the websites I used that I want to support.>
